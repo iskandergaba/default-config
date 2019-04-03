@@ -21,5 +21,10 @@
   "REGISTRATION_INSTITUTE_ADDRESS": "1012 14th St.,NW Suite 1500,Washington, DC 20005",
   "FEE_INFORMATION_LOCALE_KEY": "Fee Information",
   "NUTRITIONAL_VALUES_LOCALE_KEY": "Nutritional Values",
-  "REGISTRATION_PRINT_WITH_BARCODE": "Bar<u>c</u>ode Print"
+  "REGISTRATION_PRINT_WITH_BARCODE": "Bar<u>c</u>ode Print",
+  "VILLAGE_CITY_PRIOR_DISPLACEMENT_LOCALE": "Village/City Prior to Displacement",
+  "COUNTRY_PRIOR_DISPLACEMENT_LOCALE": "Country Prior to Displacement",
+  "COUNTRY_RESIDENCE_LOCALE": "Country of Residence",
+  "CURRENT_VILLAGE_CITY_CAMP_LOCALE": "Current Village/City/Camp"
+
 }
