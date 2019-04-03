@@ -21,10 +21,9 @@
   "REGISTRATION_INSTITUTE_ADDRESS": "1012 14th St.,NW Suite 1500,Washington, DC 20005",
   "FEE_INFORMATION_LOCALE_KEY": "معلومات التكلفة‫.‬",
   "NUTRITIONAL_VALUES_LOCALE_KEY": "الفوائد الغذائية",
-  "REGISTRATION_PRINT_WITH_BARCODE": "طباعة الشفرة‫.‬"
+  "REGISTRATION_PRINT_WITH_BARCODE": "طباعة الشفرة‫.‬",
   "VILLAGE_CITY_PRIOR_DISPLACEMENT_LOCALE": "القرية‫/‬المدينة قبل النزوح",
   "COUNTRY_PRIOR_DISPLACEMENT_LOCALE": "الدولة قبل النزوح",
   "COUNTRY_RESIDENCE_LOCALE": "بلد الإقامة",
   "CURRENT_VILLAGE_CITY_CAMP_LOCALE": "القرية‫/‬المدينة‫/‬المخيم الحالي"
-
 }
